@@ -1,4 +1,4 @@
-# examenandroidstudio
+# Examen Android Studio
 Aplicación Android desarrollada en **Kotlin** con **Android Studio** que permite crear un collage
 con fotografías y aplicarles distintas operaciones de edición.
 Proyecto del examen práctico de 2.º DAM.
